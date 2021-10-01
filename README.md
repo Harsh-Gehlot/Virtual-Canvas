@@ -3,7 +3,7 @@
  Disclaimer: The program works fine but is a little bit noisy sometimes, it depends of the lights and color of the object you are using.
 
 ## How To Use 
-  * Download the exe file and image (reload-icon.png) in same location.
+  * Download the exe file and IMAGE (reload-icon.png) in same location.
   * Run the exe.
   * Use a red pen's cap or any other object of red color with nearly same area.
   * You are ready to draw. Press 's' if you want to save your drawing.
